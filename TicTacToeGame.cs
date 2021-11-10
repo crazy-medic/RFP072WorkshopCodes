@@ -11,7 +11,7 @@ namespace WorkshopTicTacProgram
 
         public void DrawBoard()
         {
-            for(int i = 0; i < 10; i++)
+            for(int i = 1; i < 10; i++)
             {
                 Gamegrid[i] = V;
             }
