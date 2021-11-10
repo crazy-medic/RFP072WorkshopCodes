@@ -8,6 +8,7 @@ namespace WorkshopTicTacProgram
         {
             TicTacToeGame tttg = new TicTacToeGame();
             tttg.DrawBoard();
+            char UISymbol = tttg.GetUserInputType();
         }
     }
 }
