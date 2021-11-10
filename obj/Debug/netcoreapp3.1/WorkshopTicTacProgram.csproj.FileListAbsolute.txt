@@ -1,0 +1,14 @@
+C:\Users\vinee\source\repos\WorkshopTicTacProgram\bin\Debug\netcoreapp3.1\WorkshopTicTacProgram.exe
+C:\Users\vinee\source\repos\WorkshopTicTacProgram\bin\Debug\netcoreapp3.1\WorkshopTicTacProgram.deps.json
+C:\Users\vinee\source\repos\WorkshopTicTacProgram\bin\Debug\netcoreapp3.1\WorkshopTicTacProgram.runtimeconfig.json
+C:\Users\vinee\source\repos\WorkshopTicTacProgram\bin\Debug\netcoreapp3.1\WorkshopTicTacProgram.runtimeconfig.dev.json
+C:\Users\vinee\source\repos\WorkshopTicTacProgram\bin\Debug\netcoreapp3.1\WorkshopTicTacProgram.dll
+C:\Users\vinee\source\repos\WorkshopTicTacProgram\bin\Debug\netcoreapp3.1\WorkshopTicTacProgram.pdb
+C:\Users\vinee\source\repos\WorkshopTicTacProgram\obj\Debug\netcoreapp3.1\WorkshopTicTacProgram.csproj.AssemblyReference.cache
+C:\Users\vinee\source\repos\WorkshopTicTacProgram\obj\Debug\netcoreapp3.1\WorkshopTicTacProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinee\source\repos\WorkshopTicTacProgram\obj\Debug\netcoreapp3.1\WorkshopTicTacProgram.AssemblyInfoInputs.cache
+C:\Users\vinee\source\repos\WorkshopTicTacProgram\obj\Debug\netcoreapp3.1\WorkshopTicTacProgram.AssemblyInfo.cs
+C:\Users\vinee\source\repos\WorkshopTicTacProgram\obj\Debug\netcoreapp3.1\WorkshopTicTacProgram.csproj.CoreCompileInputs.cache
+C:\Users\vinee\source\repos\WorkshopTicTacProgram\obj\Debug\netcoreapp3.1\WorkshopTicTacProgram.dll
+C:\Users\vinee\source\repos\WorkshopTicTacProgram\obj\Debug\netcoreapp3.1\WorkshopTicTacProgram.pdb
+C:\Users\vinee\source\repos\WorkshopTicTacProgram\obj\Debug\netcoreapp3.1\WorkshopTicTacProgram.genruntimeconfig.cache
